@@ -19,3 +19,7 @@ jobs:
           jf rt bag
           # Publish build info
           jf rt bp
+          
+          
+          
+          #release 3 changes
